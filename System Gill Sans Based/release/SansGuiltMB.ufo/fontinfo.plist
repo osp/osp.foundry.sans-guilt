@@ -3,17 +3,17 @@
 <plist version="1.0">
     <dict>
 	<key>familyName</key>
-	<string>Sans Guilt Drawings Based</string>
+	<string>Sans Guilt</string>
 	<key>styleName</key>
-	<string>Medium</string>
+	<string>MB</string>
 	<key>copyright</key>
-	<string>Created by RCA Workshop "Read the fucking manual", with FontForge 2.0 (http://fontforge.sf.net) and Fonzie</string>
+	<string>Created by RCA Workshop "Read the Fucking Manual" with FontForge  2.0 (http://fontforge.sf.net) and Fonzie</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
-	<integer>448</integer>
+	<integer>381</integer>
 	<key>capHeight</key>
-	<integer>579</integer>
+	<integer>577</integer>
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>descender</key>
@@ -23,10 +23,10 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2011/02/11 11:34:55</string>
+	<string>2011/02/11 12:53:58</string>
 	<key>openTypeNameLicense</key>
-	<string>Copyright (c) 2011, OSP http://ospublish.constantvzw.org.
-with Reserved Font Name Sans Guilt Drawings Based.
+	<string>Copyright (C) 2011 OSP http://ospublish.constantvzw.org.
+with Reserved Font Name Sans Guilt.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -126,7 +126,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
-		<integer>0</integer>
+		<integer>11</integer>
 		<integer>6</integer>
 		<integer>3</integer>
 		<integer>0</integer>
@@ -154,9 +154,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>90</integer>
 	<key>openTypeOS2WinAscender</key>
-	<integer>685</integer>
+	<integer>974</integer>
 	<key>openTypeOS2WinDescender</key>
-	<integer>-343</integer>
+	<integer>-196</integer>
 	<key>openTypeOS2SubscriptXSize</key>
 	<integer>650</integer>
 	<key>openTypeOS2SubscriptYSize</key>
@@ -178,9 +178,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>openTypeOS2StrikeoutPosition</key>
 	<integer>258</integer>
 	<key>postscriptFontName</key>
-	<string>SansGuiltDB</string>
+	<string>SansGuiltMB</string>
 	<key>postscriptFullName</key>
-	<string>Sans Guilt Drawings Based</string>
+	<string>Sans Guilt</string>
 	<key>postscriptWeightName</key>
 	<string>Medium</string>
 	<key>postscriptUnderlineThickness</key>
@@ -189,37 +189,21 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<integer>-100</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-22</integer>
-		<integer>3</integer>
-		<integer>448</integer>
-		<integer>455</integer>
-		<integer>579</integer>
-		<integer>600</integer>
-		<integer>676</integer>
-		<integer>679</integer>
+		<integer>-6</integer>
+		<integer>0</integer>
+		<integer>381</integer>
+		<integer>381</integer>
+		<integer>577</integer>
+		<integer>584</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-343</integer>
-		<integer>-285</integer>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-		<integer>66</integer>
-		<integer>72</integer>
-		<integer>76</integer>
-		<integer>80</integer>
-		<integer>88</integer>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-		<integer>73</integer>
-		<integer>80</integer>
-		<integer>84</integer>
+		<integer>-193</integer>
+		<integer>-193</integer>
 	</array>
 	<key>postscriptBlueShift</key>
-	<integer>11</integer>
+	<integer>18</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.017069</real>
+	<real>0.039625</real>
     </dict>
 </plist>
