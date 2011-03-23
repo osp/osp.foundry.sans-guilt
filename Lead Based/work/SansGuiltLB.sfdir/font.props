@@ -13,13 +13,14 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Arri+AOgA-re"  1
 Layer: 1 0 "Avant"  0
+NeedsXUIDChange: 1
 XUID: [1021 102 386186274 14648909]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1299854079
-ModificationTime: 1300811720
+ModificationTime: 1300839945
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -60,7 +61,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 38 19 8
+WinInfo: 0 19 8
 BeginPrivate: 5
 BlueValues 24 [-21 10 460 483 664 722]
 OtherBlues 11 [-267 -262]

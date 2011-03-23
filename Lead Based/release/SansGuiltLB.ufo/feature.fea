@@ -5,7 +5,7 @@
 	\uni005A \uni0061 \uni0062 \uni0063 \uni0064 \uni0065 \uni0066 \uni0067 \uni0068 
 	\uni0069 \uni006A \uni006B \uni006C \uni006D \uni006E \uni006F \uni0070 \uni0071 
 	\uni0072 \uni0073 \uni0074 \uni0075 \uni0076 \uni0077 \uni0078 \uni0079 \uni007A 
-	\uniFFFF ];
+	\uniFFFF \at \space ];
 @GDEF_Ligature = [];
 @GDEF_Mark = [];
 @GDEF_Component = [];

@@ -24,12 +24,6 @@
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2011/02/11 14:34:39</string>
-	<key>openTypeHheaAscender</key>
-	<integer>974</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-266</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>90</integer>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.000</string>
 	<key>openTypeOS2Panose</key>
